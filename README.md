@@ -1,4 +1,5 @@
 # MMS2019
+
 Kolegij: Multimedijski sustavi
 
 Zadatak: Dorada projekta ranijih godina
